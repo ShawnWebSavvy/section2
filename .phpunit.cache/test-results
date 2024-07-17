@@ -1,0 +1,1 @@
+{"version":1,"defects":{"Tests\\Unit\\PhoneNumberControllerTest::testValidatePhoneNumber":7},"times":{"Tests\\ExampleTest::test_that_base_endpoint_returns_a_successful_response":1.053,"Tests\\Unit\\PhoneNumberControllerTest::testValidatePhoneNumber":1.704}}
